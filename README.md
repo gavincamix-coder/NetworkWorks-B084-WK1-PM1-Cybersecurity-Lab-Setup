@@ -1,12 +1,12 @@
-# Setting Up Kali Linux on VirtualBox 🐉
+# Setting Up Cybersecurity lab using Kali Linux on virtualbox
 
 ##  Project Overview
 
-This was my first hands on project in my cybersecurity and networking journey. I set up **Kali Linux inside Oracle VirtualBox**, configured the network by assigning IP addresses, and tested the connection to make sure everything was working successfully.
+This was my first hands on project in my cybersecurity and networking journey. I set up **Kali Linux inside Oracle VirtualBox**, configured the network by assigning IP addresses and tested the connection to make sure everything was working successfully.
 
 As someone learning more about IT and cybersecurity, I wanted to move beyond theory and gain practical experience working with a Linux environment and virtual machines.
 
-Although this was a beginner project, it gave me a better understanding of how virtual machines work and how network configuration helps devices communicate.
+Although this was a beginner project it gave me a better understanding of how virtual machines work and how network configuration helps devices communicate.
 
 ##  Project Objectives
 
@@ -50,7 +50,7 @@ This project helped me gain practical experience in:
 - Troubleshooting basic setup and connectivity issues.
 - Building confidence through hands-on technical practice.
 
-One of my biggest takeaways was that understanding networking is an important foundation for cybersecurity. Before exploring more advanced security tools, I wanted to make sure I could set up my own environment and get the basics working correctly.
+One of my biggest takeaways was that understanding networking is an important foundation for cybersecurity. Before exploring more advanced security tools I wanted to make sure I could set up my own environment and get the basics working correctly.
 
 ##  Challenges and Progress
 
@@ -60,7 +60,7 @@ It has also motivated me to keep building my skills through practical labs and d
 
 ##  Future Improvements
 
-For my next steps, I plan to explore:
+For my next steps I plan to explore:
 
 - Basic Linux terminal commands and system administration.
 - Network interface configuration and troubleshooting.
@@ -70,14 +70,14 @@ For my next steps, I plan to explore:
 
 ##  About Me
 
-I am an Information Technology student at Victoria University, currently in Year 2.1 of my diploma program, and I am developing my practical skills in networking, Linux, and cybersecurity.
+I am an Information Technology student at Victoria University, currently in Year 2.1 of my diploma program, and I am developing my practical skills in networking, Linux and cybersecurity.
 
-I created this project as part of my learning journey, and I intend to keep documenting my progress as I take on more challenging technical projects.
+I created this project as part of my learning journey and I intend to keep documenting my progress as I take on more challenging technical projects.
 
 **This is just the beginning of my journey into cybersecurity.**
 
 ---
 
-⭐ If you find this project useful, feel free to explore the repository and follow my progress as I continue learning.
+⭐ If you find this project useful feel free to explore the repository and follow my progress as I continue learning.
 
 **Disclaimer:** This project was created for educational purposes. Any future security testing will be conducted only in authorized environments.
